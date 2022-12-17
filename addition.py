@@ -7,3 +7,9 @@ def sub(a,b):
     d = a - b
     return d
 
+def mul(a,b):
+
+    e = a * b
+    return e
+
+
