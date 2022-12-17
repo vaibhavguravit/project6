@@ -17,4 +17,9 @@ def div(a,b):
     f = a / b
     return f
 
+def fdiv(a,b):
+
+    g = a / / b
+
+    return g
 
